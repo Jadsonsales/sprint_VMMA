@@ -1,0 +1,11 @@
+O que já foi feito:
+
+- Upload e Clone: Repositório criado e arquivos base enviados.
+
+- Branches: Criei as branches index e contato.
+
+- Alterações: Editei a cor dos veículos no index.html e os links no contato.html.
+
+- Merge: Uni as duas branches à branch main.
+
+Push: O código atualizado já está no GitHub.
